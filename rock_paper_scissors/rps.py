@@ -3,6 +3,11 @@
 import sys
 
 def rock_paper_scissors(n):
+  options = ['rock', 'paper', 'scissors']
+  possibilities = []
+  if n <= 0:
+    return
+
   pass 
 
 
